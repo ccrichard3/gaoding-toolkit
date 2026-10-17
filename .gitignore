@@ -1,1 +1,6 @@
 .DS_Store
+
+# traffic chart (committed on purpose)
+!/scripts/
+!/traffic/
+!/.github/
