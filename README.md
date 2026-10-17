@@ -1,7 +1,5 @@
 # 稿定工具箱
 
-![访问量](traffic/views.svg)
-
 在稿定设计页面上，想保存一张预览图，往往得翻 DevTools 找请求。这个小脚本就是干这个的：
 页面右下角多一个低调的「保存图片」，点一下就存，右键点它还能拿到原图地址。
 
@@ -33,3 +31,13 @@
 
 本项目仅供学习、交流与前端页面研究使用。使用前请自行确认目标平台的服务规则、版权要求和账号风险。
 因使用本项目导致的限制、异常或其他后果，由使用者自行承担。
+
+## Star 趋势
+
+<a href="https://www.star-history.com/#ccrichard3/gaoding-toolkit&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ccrichard3/gaoding-toolkit&type=date&theme=dark&legend=top-left" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ccrichard3/gaoding-toolkit&type=date&legend=top-left" />
+    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ccrichard3/gaoding-toolkit&type=date&legend=top-left" />
+  </picture>
+</a>
