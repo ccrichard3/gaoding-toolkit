@@ -32,12 +32,10 @@
 本项目仅供学习、交流与前端页面研究使用。使用前请自行确认目标平台的服务规则、版权要求和账号风险。
 因使用本项目导致的限制、异常或其他后果，由使用者自行承担。
 
-## Star 趋势
+## 访问量
 
-<a href="https://www.star-history.com/#ccrichard3/gaoding-toolkit&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ccrichard3/gaoding-toolkit&type=date&theme=dark&legend=top-left" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ccrichard3/gaoding-toolkit&type=date&legend=top-left" />
-    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ccrichard3/gaoding-toolkit&type=date&legend=top-left" />
-  </picture>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="traffic/views-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="traffic/views.svg" />
+  <img alt="访问量" src="traffic/views.svg" />
+</picture>

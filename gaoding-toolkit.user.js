@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name         稿定工具箱
-// @namespace    local.gaoding.toolkit
+// @namespace    ccrichard3.gaoding-toolkit
 // @version      1.2.0
+// @author       ccrichard3
 // @description  自动拦截 risk_materials 请求，并从稿定设计页或离线页面直接保存预览图
 // @match        *://www.gaoding.com/editor/design*
 // @match        *://*.gaoding.com/editor/design*
