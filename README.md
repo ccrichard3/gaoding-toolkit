@@ -32,10 +32,10 @@
 本项目仅供学习、交流与前端页面研究使用。使用前请自行确认目标平台的服务规则、版权要求和账号风险。
 因使用本项目导致的限制、异常或其他后果，由使用者自行承担。
 
-## 访问量
+## 使用趋势
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="traffic/views-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="traffic/views.svg" />
-  <img alt="访问量" src="traffic/views.svg" />
+  <img alt="使用趋势" src="traffic/views.svg" />
 </picture>
